@@ -5,4 +5,4 @@
 
 ![Alleprado GitHub stats](https://github-readme-stats.vercel.app/api?username=alleprado&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleprado)](https://github.com/alleprado-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dark)](https://github.com/alleprado-readme-stats)
