@@ -4,5 +4,3 @@
 )](https://www.linkedin.com/in/alexandre-prado-2172b0140/)
 
 ![Alleprado GitHub stats](https://github-readme-stats.vercel.app/api?username=alleprado&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleprado&layout=compact)](https://github.com/alleprado/github-readme-stats)
